@@ -17,13 +17,15 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane fx:id="mainBorderPane" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.121" fx:controller="burakemreozer.Controller">
+<BorderPane fx:id="mainBorderPane" xmlns:fx="http://javafx.com/fxml/1"
+        xmlns="http://javafx.com/javafx/8.0.121"
+        fx:controller="net.ddns.advaith.blocks.Controller">
     <top>
         <VBox>
             <MenuBar>
                 <Menu text="File">
                     <items>
-                        <MenuItem onAction="#showNewItemDialog" text="New..." />
+                        <MenuItem onAction="#showNewItemDialog" text="New" />
                         <SeparatorMenuItem />
                         <MenuItem onAction="#handleExit" text="Exit" />
                     </items>

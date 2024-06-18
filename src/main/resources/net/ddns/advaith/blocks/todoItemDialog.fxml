@@ -4,7 +4,7 @@
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.control.TextArea?>
 <?import javafx.scene.control.DatePicker?>
-<DialogPane fx:controller="burakemreozer.DialogController"
+<DialogPane fx:controller="net.ddns.advaith.blocks.DialogController"
             xmlns:fx="http://javafx.com/fxml">
     <headerText>
         We could put instructions here
