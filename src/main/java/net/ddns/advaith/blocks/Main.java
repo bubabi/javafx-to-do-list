@@ -1,6 +1,6 @@
-package burakemreozer;
+package net.ddns.advaith.blocks;
 
-import burakemreozer.datamodel.TodoData;
+import net.ddns.advaith.blocks.datamodel.TodoData;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;

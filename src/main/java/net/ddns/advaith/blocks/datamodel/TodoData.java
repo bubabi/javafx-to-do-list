@@ -1,4 +1,4 @@
-package burakemreozer.datamodel;
+package net.ddns.advaith.blocks.datamodel;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;

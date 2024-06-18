@@ -1,7 +1,7 @@
-package burakemreozer;
+package net.ddns.advaith.blocks;
 
-import burakemreozer.datamodel.TodoData;
-import burakemreozer.datamodel.TodoItem;
+import net.ddns.advaith.blocks.datamodel.TodoData;
+import net.ddns.advaith.blocks.datamodel.TodoItem;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.DatePicker;
